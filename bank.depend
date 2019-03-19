@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1552867430 source:c:\users\krolu\desktop\bank\account.cpp
+	"ACCOUNT.HPP"
+	"CLIENT.HPP"
+	<iostream>
+	<algorithm>
+
+1552867430 c:\users\krolu\desktop\bank\account.hpp
+	"CLIENT.HPP"
+	<vector>
+
+1552833650 c:\users\krolu\desktop\bank\client.hpp
+	<string>
+	<vector>
+
+1552787702 source:c:\users\krolu\desktop\bank\client.cpp
+	"CLIENT.HPP"
+
+1552865090 source:c:\users\krolu\desktop\bank\main.cpp
+	"ACCOUNT.HPP"
+	"CLIENT.HPP"
+	"INTERFACE.HPP"
+
+1552866535 c:\users\krolu\desktop\bank\interface.hpp
+	"ACCOUNT.HPP"
+	"CLIENT.HPP"
+
+1552867430 source:c:\users\krolu\desktop\bank\interface.cpp
+	"INTERFACE.HPP"
+	"ACCOUNT.HPP"
+	"CLIENT.HPP"
+	<iostream>
+	<string>
+	<thread>
+	<chrono>
+	<conio.h>
+	<cctype>
+	<sstream>
+	<regex>
+
+1552867430 source:c:\users\krolu\desktop\bank\bank\account.cpp
+	"ACCOUNT.HPP"
+	"CLIENT.HPP"
+	<iostream>
+	<algorithm>
+
+1552867430 c:\users\krolu\desktop\bank\bank\account.hpp
+	"CLIENT.HPP"
+	<vector>
+
+1552833650 c:\users\krolu\desktop\bank\bank\client.hpp
+	<string>
+	<vector>
+
+1552787702 source:c:\users\krolu\desktop\bank\bank\client.cpp
+	"CLIENT.HPP"
+
+1552867430 source:c:\users\krolu\desktop\bank\bank\interface.cpp
+	"INTERFACE.HPP"
+	"ACCOUNT.HPP"
+	"CLIENT.HPP"
+	<iostream>
+	<string>
+	<thread>
+	<chrono>
+	<conio.h>
+	<cctype>
+	<sstream>
+	<regex>
+
+1552866535 c:\users\krolu\desktop\bank\bank\interface.hpp
+	"ACCOUNT.HPP"
+	"CLIENT.HPP"
+
+1552865090 source:c:\users\krolu\desktop\bank\bank\main.cpp
+	"ACCOUNT.HPP"
+	"CLIENT.HPP"
+	"INTERFACE.HPP"
+
